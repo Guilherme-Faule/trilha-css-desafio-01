@@ -49,8 +49,9 @@ section {
   text-transform: uppercase;
   color: transparent;
   background: -webkit-linear-gradient(#33A8DB, #1472B7);
-  background-clip: text;
   -webkit-background-clip: text;
+  background-clip: text;
+  
 }
 
 .banner p {
